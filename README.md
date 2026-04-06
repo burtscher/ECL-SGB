@@ -4,7 +4,7 @@ ECL-SGB is a fast and work-efficient algorithm for balancing signed graphs. This
 
 If you use ECL-SGB, please cite the following publication:
 
->Avery Vanausdal and Martin Burtscher. "Signed Graph Balancing in Linear Time." Proceedings of the 18th Workshop on General Purpose Processing Using GPUs. March 2026. <!--[[doi]]()-->[[abstract]](https://userweb.cs.txstate.edu/~burtscher/abstracts.html#GPGPU26) [[PDF]](https://userweb.cs.txstate.edu/~burtscher/papers/gpgpu26.pdf)
+>Avery VanAusdal, Lucas Rusnak, and Martin Burtscher. "Signed Graph Balancing in Linear Time." Proceedings of the 18th Workshop on General Purpose Processing Using GPUs. March 2026. <!--[[doi]]()-->[[abstract]](https://userweb.cs.txstate.edu/~burtscher/abstracts.html#GPGPU26) [[PDF]](https://userweb.cs.txstate.edu/~burtscher/papers/gpgpu26.pdf)
 
 ### Compilation
 
